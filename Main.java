@@ -9,7 +9,7 @@ class Main {
     frame.setLocation(5, 5);
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-    JLabel label = new JLabel("Hello world", SwingConstants.CENTER);
+    JLabel label = new JLabel("En tiempo real", SwingConstants.CENTER);
     frame.add(label);
 
     frame.show();
